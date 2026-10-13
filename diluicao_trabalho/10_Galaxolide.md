@@ -66,3 +66,33 @@ Assim como o Etileno Brassilato, se você tentar cheirar bem perto da ponta do n
   - *Tresor* (Lancôme)
   - *White Musk* (The Body Shop)
   - Praticamente todos os perfumes frescos modernos de designers (Armani, Hugo Boss, Calvin Klein, Paco Rabanne).
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Galaxolide:
+* **Limpo (Roupa Lavada / Sabão Fino de Hotel):** `10/10` ⭐ *(Pico absoluto)*
+* **Aveludado:** `8/10` ⭐
+* **Elegante:** `8/10` ⭐
+* **Sensual (Maciez Íntima):** `7/10`
+* **Frescor:** `6/10`
+* **Leveza:** `6/10`
+* **Intensidade (Persistência Infinita de Fundo):** `6/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **4** | 11. Gourmand | **0** | 21. Cremoso | **4** |
+| 02. Frescor | **6** | 12. Aquático | **1** | 22. Seco | **2** |
+| 03. Floralidade | **4** | 13. Animálico | **1** | 23. Aveludado | **8** |
+| 04. Frutado | **1** | 14. Couro | **0** | 24. Áspero | **0** |
+| 05. Verde | **0** | 15. Tabacado | **0** | 25. Limpo | **10** |
+| 06. Amadeirado | **1** | 16. Incensado | **0** | 26. Pungente | **0** |
+| 07. Terroso | **0** | 17. Quente | **4** | 27. Metálico | **1** |
+| 08. Especiado | **0** | 18. Frio | **4** | 28. Medicinal | **0** |
+| 09. Resinoso | **0** | 19. Leveza | **6** | 29. Sensual | **7** |
+| 10. Balsâmico | **1** | 20. Intensidade | **6** | 30. Elegante | **8** |
+

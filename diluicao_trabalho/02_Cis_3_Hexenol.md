@@ -64,3 +64,34 @@ Pela sua potência avassaladora, a diluição de trabalho deve ser **1%** (em ve
   - *Un Jardin Sur Le Nil* (Hermès)
   - *Vent Vert* (Balmain - o pioneiro das notas verdes)
   - *Chanel Nº 19*
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Cis-3-Hexenol:
+* **Verde (Grama Cortada / Clorofila):** `10/10` ⭐ *(Pico absoluto)*
+* **Intensidade (Ataque Instantâneo):** `10/10` ⭐ *(Pico absoluto)*
+* **Pungente:** `9/10` ⭐
+* **Frescor:** `9/10` ⭐
+* **Limpo:** `8/10`
+* **Áspero (Adstringente Vegetal):** `7/10`
+* **Frio:** `7/10`
+* **Leveza:** `7/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **0** | 11. Gourmand | **0** | 21. Cremoso | **0** |
+| 02. Frescor | **9** | 12. Aquático | **4** | 22. Seco | **1** |
+| 03. Floralidade | **1** | 13. Animálico | **0** | 23. Aveludado | **0** |
+| 04. Frutado | **1** | 14. Couro | **0** | 24. Áspero | **7** |
+| 05. Verde | **10** | 15. Tabacado | **0** | 25. Limpo | **8** |
+| 06. Amadeirado | **0** | 16. Incensado | **0** | 26. Pungente | **9** |
+| 07. Terroso | **2** | 17. Quente | **0** | 27. Metálico | **3** |
+| 08. Especiado | **0** | 18. Frio | **7** | 28. Medicinal | **1** |
+| 09. Resinoso | **0** | 19. Leveza | **7** | 29. Sensual | **1** |
+| 10. Balsâmico | **0** | 20. Intensidade | **10** | 30. Elegante | **6** |
+

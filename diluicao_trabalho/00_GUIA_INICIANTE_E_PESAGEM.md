@@ -69,21 +69,30 @@ Para um iniciante conseguir cheirar, estudar e misturar as matérias-primas sem 
 
 ---
 
-## 6. Sumário das Suas 13 Matérias-Primas
+## 6. Sumário das Suas 14 Matérias-Primas
 
 Clique nos links abaixo para ver o arquivo detalhado de cada ingrediente:
 
-1. [Cumarina](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/01_Cumarina.md) — Feno doce, amêndoa, fava tonka *(Sólido em pó, 10%)*
-2. [Cis-3-Hexenol](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/02_Cis_3_Hexenol.md) — Grama cortada ultra-verde *(Potência extrema, 1%)*
-3. [Etileno Brassilato](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/03_Etileno_Brassilato.md) — Musk aveludado doce e macio *(Fundo, 10%)*
-4. [Helional](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/04_Helional.md) — Brisa marinha, ozônico aquático e melão *(10%)*
-5. [Ebanol](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/05_Ebanol.md) — Sândalo cremoso, amadeirado nobre e rico *(10%)*
-6. [Linalol](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/06_Linalol.md) — Floral fresco, lavanda, bergamota universal *(10%)*
-7. [Cashmeran](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/07_Cashmeran.md) — Madeira úmida, caxemira, pinho e musk difusivo *(10%)*
-8. [Floralozone](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/08_Floralozone.md) — Ar puro, maresia oceânica e lírio *(10% ou 1%)*
-9. [Acetato de Linalila](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/09_Acetato_de_Linalila.md) — Bergamota cintilante e lavanda elegante *(10%)*
-10. [Galaxolide](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/10_Galaxolide.md) — Musk limpo, roupa lavada, fixação eterna *(Viscoso, 10%)*
-11. [Dihidromircenol](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/11_Dihidromircenol.md) — Frescor moderno, cítrico metálico, sabonete fino *(10%)*
-12. [Iso E Super](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/12_Iso_E_Super.md) — Madeira aveludada, cedro sutil e efeito aura *(10%)*
-13. [Hedione](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/13_Hedione.md) — Jasmim orvalhado transparente, expansão mágica *(10%)*
-14. [Aldeído C-16](file:///d:/DEV_WEB/Perfume/diluicao_trabalho/14_Aldeido_C16.md) — Morango doce, frutas vermelhas, maçã e nota gourmand *(10% ou 1%)*
+1. [Cumarina](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/01_Cumarina.md) — Feno doce, amêndoa, fava tonka *(Sólido em pó, 10%)*
+2. [Cis-3-Hexenol](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/02_Cis_3_Hexenol.md) — Grama cortada ultra-verde *(Potência extrema, 1%)*
+3. [Etileno Brassilato](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/03_Etileno_Brassilato.md) — Musk aveludado doce e macio *(Fundo, 10%)*
+4. [Helional](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/04_Helional.md) — Brisa marinha, ozônico aquático e melão *(10%)*
+5. [Ebanol](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/05_Ebanol.md) — Sândalo cremoso, amadeirado nobre e rico *(10%)*
+6. [Linalol](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/06_Linalol.md) — Floral fresco, lavanda, bergamota universal *(10%)*
+7. [Cashmeran](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/07_Cashmeran.md) — Madeira úmida, caxemira, pinho e musk difusivo *(10%)*
+8. [Floralozone](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/08_Floralozone.md) — Ar puro, maresia oceânica e lírio *(10% ou 1%)*
+9. [Acetato de Linalila](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/09_Acetato_de_Linalila.md) — Bergamota cintilante e lavanda elegante *(10%)*
+10. [Galaxolide](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/10_Galaxolide.md) — Musk limpo, roupa lavada, fixação eterna *(Viscoso, 10%)*
+11. [Dihidromircenol](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/11_Dihidromircenol.md) — Frescor moderno, cítrico metálico, sabonete fino *(10%)*
+12. [Iso E Super](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/12_Iso_E_Super.md) — Madeira aveludada, cedro sutil e efeito aura *(10%)*
+13. [Hedione](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/13_Hedione.md) — Jasmim orvalhado transparente, expansão mágica *(10%)*
+14. [Aldeído C-16](file:///F:/++WEB_LEARNING/Perfume/diluicao_trabalho/14_Aldeido_C16.md) — Morango doce, frutas vermelhas, maçã e nota gourmand *(10% ou 1%)*
+
+---
+
+## 7. Mapeamento Sensorial Avançado (Radar Olfativo de 30 Dimensões)
+
+Para avaliar e comparar suas matérias além da pirâmide olfativa tradicional, consulte:
+- [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md): Guia completo com os 30 descritores (facetas olfativas, temperatura, textura física e caráter) e a pontuação detalhada de cada matéria.
+- [matriz_radar_30_dimensoes.csv](file:///F:/++WEB_LEARNING/Perfume/dicas/matriz_radar_30_dimensoes.csv): Planilha tabular pronta para importação no Excel ou Google Sheets.
+

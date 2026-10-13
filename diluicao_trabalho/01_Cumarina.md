@@ -62,3 +62,35 @@ Como a cumarina é um cristal sólido com odor potente, a diluição a **10%** e
   - *Le Male* (Jean Paul Gaultier)
   - *A*Men* (Thierry Mugler)
   - Clássicos de barbearia como *Azzaro Pour Homme* e *Brut*.
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais da Cumarina:
+* **Balsâmico:** `9/10` ⭐
+* **Quente:** `9/10` ⭐
+* **Doçura:** `8/10` ⭐
+* **Gourmand (Fava Tonka / Amêndoa):** `8/10` ⭐
+* **Aveludado:** `8/10` ⭐
+* **Sensual:** `8/10` ⭐
+* **Elegante:** `8/10` ⭐
+* **Tabacado:** `7/10`
+* **Seco (Feno Seco ao Sol):** `7/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **8** | 11. Gourmand | **8** | 21. Cremoso | **6** |
+| 02. Frescor | **0** | 12. Aquático | **0** | 22. Seco | **7** |
+| 03. Floralidade | **1** | 13. Animálico | **0** | 23. Aveludado | **8** |
+| 04. Frutado | **1** | 14. Couro | **1** | 24. Áspero | **1** |
+| 05. Verde | **2** | 15. Tabacado | **7** | 25. Limpo | **3** |
+| 06. Amadeirado | **2** | 16. Incensado | **1** | 26. Pungente | **2** |
+| 07. Terroso | **1** | 17. Quente | **9** | 27. Metálico | **0** |
+| 08. Especiado | **3** | 18. Frio | **0** | 28. Medicinal | **1** |
+| 09. Resinoso | **2** | 19. Leveza | **2** | 29. Sensual | **8** |
+| 10. Balsâmico | **9** | 20. Intensidade | **8** | 30. Elegante | **8** |
+

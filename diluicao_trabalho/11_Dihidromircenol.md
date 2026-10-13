@@ -62,3 +62,34 @@ Trabalhar a **10%** em frasco âmbar de 10ml permite dosar com muita facilidade 
   - *Dior Sauvage*
   - *Paco Rabanne Invictus*
   - *Guy Laroche Drakkar Noir*
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Dihidromircenol:
+* **Frescor (Explosão Revigorante):** `10/10` ⭐ *(Pico absoluto)*
+* **Metálico (Lâmina / Eletricidade):** `10/10` ⭐ *(Pico absoluto)*
+* **Limpo (Banho Tomado / Barbearia Moderna):** `10/10` ⭐ *(Pico absoluto)*
+* **Frio:** `9/10` ⭐
+* **Intensidade:** `9/10` ⭐
+* **Pungente:** `8/10` ⭐
+* **Leveza:** `8/10` ⭐
+* **Elegante:** `7/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **0** | 11. Gourmand | **0** | 21. Cremoso | **0** |
+| 02. Frescor | **10** | 12. Aquático | **4** | 22. Seco | **3** |
+| 03. Floralidade | **2** | 13. Animálico | **0** | 23. Aveludado | **0** |
+| 04. Frutado | **3** | 14. Couro | **0** | 24. Áspero | **4** |
+| 05. Verde | **2** | 15. Tabacado | **0** | 25. Limpo | **10** |
+| 06. Amadeirado | **1** | 16. Incensado | **0** | 26. Pungente | **8** |
+| 07. Terroso | **0** | 17. Quente | **0** | 27. Metálico | **10** |
+| 08. Especiado | **1** | 18. Frio | **9** | 28. Medicinal | **2** |
+| 09. Resinoso | **0** | 19. Leveza | **8** | 29. Sensual | **4** |
+| 10. Balsâmico | **0** | 20. Intensidade | **9** | 30. Elegante | **7** |
+

@@ -61,3 +61,35 @@ Trabalhar a **10%** é excelente para conhecer a substância e ter um frasco de 
   - *Kenzo Pour Homme*
   - *L'Eau d'Issey Pour Homme*
   - *Ralph Lauren Polo Blue*
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Floralozone:
+* **Frescor:** `9/10` ⭐
+* **Aquático (Maresia / Vento Marinho):** `9/10` ⭐
+* **Leveza (Ar Puro Aberto):** `9/10` ⭐
+* **Frio:** `9/10` ⭐
+* **Limpo:** `9/10` ⭐
+* **Intensidade:** `9/10` ⭐
+* **Floralidade (Lírio / Muguet Orvalhado):** `7/10`
+* **Pungente (Ozônio Ativo):** `7/10`
+* **Elegante:** `7/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **2** | 11. Gourmand | **0** | 21. Cremoso | **1** |
+| 02. Frescor | **9** | 12. Aquático | **9** | 22. Seco | **0** |
+| 03. Floralidade | **7** | 13. Animálico | **0** | 23. Aveludado | **2** |
+| 04. Frutado | **1** | 14. Couro | **0** | 24. Áspero | **2** |
+| 05. Verde | **3** | 15. Tabacado | **0** | 25. Limpo | **9** |
+| 06. Amadeirado | **0** | 16. Incensado | **0** | 26. Pungente | **7** |
+| 07. Terroso | **0** | 17. Quente | **0** | 27. Metálico | **3** |
+| 08. Especiado | **0** | 18. Frio | **9** | 28. Medicinal | **0** |
+| 09. Resinoso | **0** | 19. Leveza | **9** | 29. Sensual | **3** |
+| 10. Balsâmico | **0** | 20. Intensidade | **9** | 30. Elegante | **7** |
+

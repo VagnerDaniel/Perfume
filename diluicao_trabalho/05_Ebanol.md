@@ -61,3 +61,36 @@ Por ser extremamente concentrado e com fixação monumental, diluí-lo a **10%**
   - *Egoïste* (Chanel)
   - *Samsara* (Guerlain)
   - *Tom Ford Oud Wood / Santal Blush*
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Ebanol:
+* **Amadeirado (Sândalo Nobre):** `10/10` ⭐ *(Pico absoluto)*
+* **Cremoso (Leite / Manteiga Botânica):** `10/10` ⭐ *(Pico absoluto)*
+* **Elegante:** `10/10` ⭐ *(Pico absoluto)*
+* **Quente:** `9/10` ⭐
+* **Sensual:** `9/10` ⭐
+* **Aveludado:** `9/10` ⭐
+* **Intensidade:** `8/10`
+* **Balsâmico:** `7/10`
+* **Resinoso:** `5/10`
+* **Incensado:** `5/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **4** | 11. Gourmand | **2** | 21. Cremoso | **10** |
+| 02. Frescor | **0** | 12. Aquático | **0** | 22. Seco | **3** |
+| 03. Floralidade | **1** | 13. Animálico | **1** | 23. Aveludado | **9** |
+| 04. Frutado | **0** | 14. Couro | **2** | 24. Áspero | **0** |
+| 05. Verde | **0** | 15. Tabacado | **2** | 25. Limpo | **5** |
+| 06. Amadeirado | **10** | 16. Incensado | **5** | 26. Pungente | **1** |
+| 07. Terroso | **2** | 17. Quente | **9** | 27. Metálico | **0** |
+| 08. Especiado | **2** | 18. Frio | **0** | 28. Medicinal | **0** |
+| 09. Resinoso | **5** | 19. Leveza | **1** | 29. Sensual | **9** |
+| 10. Balsâmico | **7** | 20. Intensidade | **8** | 30. Elegante | **10** |
+

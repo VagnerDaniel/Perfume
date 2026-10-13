@@ -63,3 +63,35 @@ Diluir a **10%** evita que o produto se solidifique no inverno e torna o aroma i
   - *Alien* (Thierry Mugler — overdose lendária de Cashmeran + Jasmim Sambac)
   - *Encre Noire* (Lalique)
   - *Tom Ford Oud Wood*
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Cashmeran:
+* **Intensidade (Difusão Monstruosa):** `9/10` ⭐
+* **Sensual:** `9/10` ⭐
+* **Elegante:** `9/10` ⭐
+* **Amadeirado (Pinho / Cedro Úmido):** `8/10` ⭐
+* **Quente:** `8/10` ⭐
+* **Aveludado (Toque Tátil de Caxemira):** `8/10` ⭐
+* **Terroso (Concreto Molhado / Húmus):** `7/10` ⭐
+* **Especiado:** `6/10`
+* **Seco:** `6/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **3** | 11. Gourmand | **0** | 21. Cremoso | **3** |
+| 02. Frescor | **2** | 12. Aquático | **2** | 22. Seco | **6** |
+| 03. Floralidade | **1** | 13. Animálico | **4** | 23. Aveludado | **8** |
+| 04. Frutado | **1** | 14. Couro | **3** | 24. Áspero | **4** |
+| 05. Verde | **3** | 15. Tabacado | **2** | 25. Limpo | **4** |
+| 06. Amadeirado | **8** | 16. Incensado | **3** | 26. Pungente | **5** |
+| 07. Terroso | **7** | 17. Quente | **8** | 27. Metálico | **1** |
+| 08. Especiado | **6** | 18. Frio | **2** | 28. Medicinal | **1** |
+| 09. Resinoso | **4** | 19. Leveza | **3** | 29. Sensual | **9** |
+| 10. Balsâmico | **3** | 20. Intensidade | **9** | 30. Elegante | **9** |
+

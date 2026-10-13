@@ -64,3 +64,35 @@ Se você deixar a fita em outro cômodo e entrar na sala 1 hora depois, sentirá
   - *Terre d'Hermès* (contém ~55% de Iso E Super na fórmula do concentrado!)
   - *Dior Fahrenheit* (contém ~25%)
   - *Bleu de Chanel* e *Dior Sauvage*
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Iso E Super:
+* **Elegante (Sofisticação Transparente):** `10/10` ⭐ *(Pico absoluto)*
+* **Amadeirado (Cedro Límpido / Serragem Nobre):** `9/10` ⭐
+* **Leveza (Efeito Aura Flutuante):** `9/10` ⭐
+* **Aveludado:** `9/10` ⭐
+* **Seco (Lápis Apontado Fino):** `8/10` ⭐
+* **Limpo:** `8/10` ⭐
+* **Sensual (Atração Aconchegante Íntima):** `8/10` ⭐
+* **Quente:** `6/10`
+* **Intensidade (Pulsante e Difusivo):** `5/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **2** | 11. Gourmand | **0** | 21. Cremoso | **2** |
+| 02. Frescor | **4** | 12. Aquático | **0** | 22. Seco | **8** |
+| 03. Floralidade | **1** | 13. Animálico | **1** | 23. Aveludado | **9** |
+| 04. Frutado | **0** | 14. Couro | **1** | 24. Áspero | **0** |
+| 05. Verde | **1** | 15. Tabacado | **1** | 25. Limpo | **8** |
+| 06. Amadeirado | **9** | 16. Incensado | **3** | 26. Pungente | **0** |
+| 07. Terroso | **1** | 17. Quente | **6** | 27. Metálico | **0** |
+| 08. Especiado | **1** | 18. Frio | **2** | 28. Medicinal | **0** |
+| 09. Resinoso | **3** | 19. Leveza | **9** | 29. Sensual | **8** |
+| 10. Balsâmico | **3** | 20. Intensidade | **5** | 30. Elegante | **10** |
+

@@ -67,3 +67,35 @@ Sim! Ele não tem o cheiro pesado, indólico ou animálico do óleo absoluto de 
   - *CK One* (Calvin Klein — famoso por sua overdose de Hedione)
   - *Acqua di Giò* (Giorgio Armani)
   - *Baccarat Rouge 540* (Maison Francis Kurkdjian)
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Hedione:
+* **Floralidade (Jasmim Transparente e Luminoso):** `10/10` ⭐ *(Pico absoluto)*
+* **Leveza (Radiação Solar Aérea):** `10/10` ⭐ *(Pico absoluto)*
+* **Elegante (Harmonia Nobre Suprema):** `10/10` ⭐ *(Pico absoluto)*
+* **Limpo:** `9/10` ⭐
+* **Frescor:** `8/10` ⭐
+* **Aveludado:** `7/10`
+* **Sensual:** `7/10`
+* **Frio:** `5/10`
+* **Intensidade (Suave Isolado, Titânico em Acordes):** `4/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **3** | 11. Gourmand | **0** | 21. Cremoso | **1** |
+| 02. Frescor | **8** | 12. Aquático | **4** | 22. Seco | **0** |
+| 03. Floralidade | **10** | 13. Animálico | **0** | 23. Aveludado | **7** |
+| 04. Frutado | **2** | 14. Couro | **0** | 24. Áspero | **0** |
+| 05. Verde | **3** | 15. Tabacado | **0** | 25. Limpo | **9** |
+| 06. Amadeirado | **0** | 16. Incensado | **0** | 26. Pungente | **0** |
+| 07. Terroso | **0** | 17. Quente | **2** | 27. Metálico | **0** |
+| 08. Especiado | **0** | 18. Frio | **5** | 28. Medicinal | **0** |
+| 09. Resinoso | **0** | 19. Leveza | **10** | 29. Sensual | **7** |
+| 10. Balsâmico | **0** | 20. Intensidade | **4** | 30. Elegante | **10** |
+

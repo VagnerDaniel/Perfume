@@ -60,3 +60,33 @@ Isso é normal! As moléculas de musk são grandes e pesadas (alto peso molecula
 - **Dueto dos Sonhos de Musk:** Combine **Etileno Brassilato** (que é doce e aveludado) com **Galaxolide** (que é límpido e floral-sabão) para criar uma base de musk tridimensional e rica.
 - **Com Flores e Madeiras:** Fica magnífico junto de **Hedione**, **Iso E Super** e **Ebanol**.
 - **Exemplos de Perfumes:** Praticamente todo perfume comercial moderno contém Etileno Brassilato ou combinação de musks macrocíclicos para garantir maciez e fixação.
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Etileno Brassilato:
+* **Aveludado (Sensação Tátil de Toque de Pele):** `10/10` ⭐ *(Pico absoluto)*
+* **Sensual (Abraço Íntimo / Calor de Pele):** `9/10` ⭐
+* **Quente:** `8/10` ⭐
+* **Limpo:** `8/10` ⭐
+* **Elegante:** `8/10` ⭐
+* **Cremoso:** `7/10`
+* **Doçura (Ambrete Macio):** `6/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **6** | 11. Gourmand | **2** | 21. Cremoso | **7** |
+| 02. Frescor | **2** | 12. Aquático | **0** | 22. Seco | **2** |
+| 03. Floralidade | **4** | 13. Animálico | **2** | 23. Aveludado | **10** |
+| 04. Frutado | **1** | 14. Couro | **0** | 24. Áspero | **0** |
+| 05. Verde | **0** | 15. Tabacado | **0** | 25. Limpo | **8** |
+| 06. Amadeirado | **2** | 16. Incensado | **1** | 26. Pungente | **0** |
+| 07. Terroso | **0** | 17. Quente | **8** | 27. Metálico | **0** |
+| 08. Especiado | **0** | 18. Frio | **1** | 28. Medicinal | **0** |
+| 09. Resinoso | **1** | 19. Leveza | **4** | 29. Sensual | **9** |
+| 10. Balsâmico | **4** | 20. Intensidade | **5** | 30. Elegante | **8** |
+

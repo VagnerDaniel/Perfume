@@ -65,3 +65,35 @@ Como você tem ambos na sua coleção, faça este exercício:
   - *Dior Sauvage* (a clássica overdose de bergamota de topo)
   - *Acqua di Parma Colonia*
   - *Bleu de Chanel*
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Acetato de Linalila:
+* **Elegante (Nobreza Clássica de Bergamota):** `10/10` ⭐ *(Pico absoluto)*
+* **Frescor:** `9/10` ⭐
+* **Leveza:** `9/10` ⭐
+* **Limpo:** `9/10` ⭐
+* **Floralidade (Chá Earl Grey / Pétalas):** `7/10`
+* **Frio:** `7/10`
+* **Intensidade:** `7/10`
+* **Frutado (Cítrico Refinado Nobre):** `6/10`
+* **Aveludado:** `6/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **3** | 11. Gourmand | **0** | 21. Cremoso | **1** |
+| 02. Frescor | **9** | 12. Aquático | **1** | 22. Seco | **2** |
+| 03. Floralidade | **7** | 13. Animálico | **0** | 23. Aveludado | **6** |
+| 04. Frutado | **6** | 14. Couro | **0** | 24. Áspero | **1** |
+| 05. Verde | **3** | 15. Tabacado | **0** | 25. Limpo | **9** |
+| 06. Amadeirado | **1** | 16. Incensado | **0** | 26. Pungente | **3** |
+| 07. Terroso | **0** | 17. Quente | **2** | 27. Metálico | **1** |
+| 08. Especiado | **1** | 18. Frio | **7** | 28. Medicinal | **0** |
+| 09. Resinoso | **0** | 19. Leveza | **9** | 29. Sensual | **5** |
+| 10. Balsâmico | **0** | 20. Intensidade | **7** | 30. Elegante | **10** |
+

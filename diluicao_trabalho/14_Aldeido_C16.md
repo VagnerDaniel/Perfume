@@ -69,3 +69,34 @@ Como o Aldeído C-16 é muito potente e doce, ele pode ser diluído a **10%** (p
   - *Mitsouko* (Guerlain — uso histórico seminal)
   - *Miss Dior Cherie* (Dior — famoso acorde de pipoca doce e morango)
   - *Givenchy L'Interdit* (nuance frutada de uva/morango com flores brancas)
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Aldeído C-16:
+* **Doçura (Sacarina / Compota / Frutose):** `10/10` ⭐ *(Pico absoluto)*
+* **Frutado (Morango Silvestre / Bagas Vermelhas):** `10/10` ⭐ *(Pico absoluto)*
+* **Gourmand (Sobremesa / Bala de Fruta):** `9/10` ⭐
+* **Intensidade:** `8/10` ⭐
+* **Quente:** `7/10`
+* **Aveludado:** `7/10`
+* **Sensual:** `7/10`
+* **Elegante (Em microdoses de 0,1% a 1%):** `6/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **10** | 11. Gourmand | **9** | 21. Cremoso | **5** |
+| 02. Frescor | **2** | 12. Aquático | **0** | 22. Seco | **1** |
+| 03. Floralidade | **2** | 13. Animálico | **0** | 23. Aveludado | **7** |
+| 04. Frutado | **10** | 14. Couro | **0** | 24. Áspero | **0** |
+| 05. Verde | **1** | 15. Tabacado | **0** | 25. Limpo | **3** |
+| 06. Amadeirado | **0** | 16. Incensado | **0** | 26. Pungente | **4** |
+| 07. Terroso | **0** | 17. Quente | **7** | 27. Metálico | **0** |
+| 08. Especiado | **1** | 18. Frio | **1** | 28. Medicinal | **0** |
+| 09. Resinoso | **0** | 19. Leveza | **4** | 29. Sensual | **7** |
+| 10. Balsâmico | **4** | 20. Intensidade | **8** | 30. Elegante | **6** |
+

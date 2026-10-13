@@ -55,3 +55,34 @@ Trabalhar com Linalol a **10%** permite avaliar com perfeição suas facetas flo
 - **A Dupla Dinâmica Imbatível:** Misture **Linalol** e **Acetato de Linalila** na proporção de 1:1 ou 1:2. Você terá o acorde natural perfeito de **Lavanda & Bergamota**, a base essencial para qualquer colônia fresca ou acorde fougère.
 - **Ponte Harmonizadora:** O Linalol é a ponte ideal para conectar as notas explosivas de saída (como o **Dihidromircenol**) com o coração floral (como o **Hedione**).
 - **Exemplos de Perfumes:** Está presente em quase todas as criações do mercado, incluindo *Dior Sauvage*, *Bleu de Chanel*, *Acqua di Giò* e *CK One*.
+
+---
+
+## 6. Radar Olfativo (30 Dimensões)
+
+Consulte o guia completo em [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md).
+
+### Picos Sensoriais do Linalol:
+* **Floralidade (Lavanda / Magnólia / Lírio):** `9/10` ⭐
+* **Limpo:** `9/10` ⭐
+* **Frescor:** `8/10` ⭐
+* **Leveza:** `8/10` ⭐
+* **Elegante:** `8/10` ⭐
+* **Intensidade:** `7/10`
+* **Frio:** `6/10`
+* **Aveludado:** `6/10`
+
+### Tabela Completa dos 30 Eixos (0 a 10):
+| Eixo | Nota | Eixo | Nota | Eixo | Nota |
+| :--- | :---: | :--- | :---: | :--- | :---: |
+| 01. Doçura | **2** | 11. Gourmand | **0** | 21. Cremoso | **2** |
+| 02. Frescor | **8** | 12. Aquático | **2** | 22. Seco | **2** |
+| 03. Floralidade | **9** | 13. Animálico | **0** | 23. Aveludado | **6** |
+| 04. Frutado | **3** | 14. Couro | **0** | 24. Áspero | **1** |
+| 05. Verde | **3** | 15. Tabacado | **0** | 25. Limpo | **9** |
+| 06. Amadeirado | **1** | 16. Incensado | **0** | 26. Pungente | **3** |
+| 07. Terroso | **0** | 17. Quente | **2** | 27. Metálico | **0** |
+| 08. Especiado | **2** | 18. Frio | **6** | 28. Medicinal | **2** |
+| 09. Resinoso | **0** | 19. Leveza | **8** | 29. Sensual | **5** |
+| 10. Balsâmico | **0** | 20. Intensidade | **7** | 30. Elegante | **8** |
+
