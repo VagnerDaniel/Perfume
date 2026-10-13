@@ -94,5 +94,7 @@ Clique nos links abaixo para ver o arquivo detalhado de cada ingrediente:
 
 Para avaliar e comparar suas matérias além da pirâmide olfativa tradicional, consulte:
 - [005_radar_olfativo_completo_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/005_radar_olfativo_completo_30_dimensoes.md): Guia completo com os 30 descritores (facetas olfativas, temperatura, textura física e caráter) e a pontuação detalhada de cada matéria.
+- [006_estrelas_polares_e_calibracao_das_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/006_estrelas_polares_e_calibracao_das_30_dimensoes.md): As moléculas-âncora para calibrar o nariz em cada uma das 30 dimensões e o método prático de isolamento mental.
 - [matriz_radar_30_dimensoes.csv](file:///F:/++WEB_LEARNING/Perfume/dicas/matriz_radar_30_dimensoes.csv): Planilha tabular pronta para importação no Excel ou Google Sheets.
+
 

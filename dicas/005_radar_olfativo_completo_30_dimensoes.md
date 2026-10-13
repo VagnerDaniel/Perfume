@@ -144,3 +144,11 @@ Ao testar uma matéria-prima pura ou um acorde recém-criado na fita olfativa:
 
 Os dados brutos desta matriz estão salvos em formato tabular para você importar no Excel ou Google Sheets:
 - [matriz_radar_30_dimensoes.csv](file:///F:/++WEB_LEARNING/Perfume/dicas/matriz_radar_30_dimensoes.csv)
+
+---
+
+## 6. Como Calibrar Seu Nariz em Cada Dimensão
+
+Para entender a lista das **30 Estrelas Polares** (as matérias de calibração padrão-ouro da perfumaria mundial) e o método do **Isolamento Mental** para treinar seu cérebro em cada eixo:
+- Consulte o guia dedicado: [006_estrelas_polares_e_calibracao_das_30_dimensoes.md](file:///F:/++WEB_LEARNING/Perfume/dicas/006_estrelas_polares_e_calibracao_das_30_dimensoes.md)
+
